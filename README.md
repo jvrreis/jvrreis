@@ -7,3 +7,4 @@
 - 📫 How to reach me: jv.rreis22@gmail.com
 - ⚡ Fun fact: Vasco da Gama.
 
+https://github-readme-stats.vercel.app/api?username=jvrreis&show_icons=true&theme=radical
