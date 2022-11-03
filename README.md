@@ -1,5 +1,6 @@
 ### Hi there 👋
-/header.png
+[/header.png
+](https://github.com/jvrreis/jvrreis/blob/main/header.png?raw=true)
 
 - 🔭 I’m currently working on data analysis projects
 - 🔭 I’m currently graduating in Bachelor of Computer Science at CEFET-RJ
