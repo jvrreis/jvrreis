@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+/header.png
 
 - 🔭 I’m currently working on data analysis projects
 - 🔭 I’m currently graduating in Bachelor of Computer Science at CEFET-RJ
