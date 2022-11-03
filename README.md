@@ -10,4 +10,5 @@
 
 
 [![jvrreisGitHub stats](https://github-readme-stats.vercel.app/api?username=jvrreis)](https://github.com/jvrreis/github-readme-stats)
+![jvrreis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
