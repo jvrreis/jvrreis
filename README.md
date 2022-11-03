@@ -15,3 +15,6 @@
 <p align="left">
 
 <a href=https://www.linkedin.com/in/joão-reis-7ab771206 target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480" alt="" height="40" width="40" /></a>
+  
+  <a href=jv.rreis22@gmail.com target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="" height="40" width="80" /></a>
+
